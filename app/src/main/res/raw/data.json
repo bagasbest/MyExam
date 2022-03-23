@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Pahang Examination Point",
+    "description": "Professional Examination Certification Point, for you if you want to take a professional IT certification",
+    "address": "No.12, 16, Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang, Malaysia",
+    "image": "https://images.unsplash.com/photo-1599747645972-73c841de6e9e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29tcGFueSUyMGJ1aWxkaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "latitude": 3.81867487688015,
+    "longitude": 103.32787583904619,
+    "tempName": "pahang examination point",
+    "schedule": "Every Thursday and Friday, open from 07.00 - 16.00"
+  },
+  {
+    "name": "Pahang Examination Point Branch 1",
+    "description": "Professional Examination Certification Point branch in Pahang, for you if you want to take a professional IT certification",
+    "address": "Kuantan Centre Point, No. G10, Ground Floor, Jalan Hj Abd Rahman, Pahang, 25200 Kuantan, Malaysia",
+    "image": "https://images.unsplash.com/photo-1599427303058-f04cbcf4756f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "latitude": 3.8066168755186105,
+    "longitude": 103.32328552165674,
+    "tempName": "pahang examination point branch 1",
+    "schedule": "Every Friday, open from 07.00 - 10.00"
+  },
+  {
+    "name": "Pahang Examination Point Branch 2",
+    "description": "Professional Examination Certification Point branch in Pahang, for you if you want to take a professional IT certification",
+    "address": "Bandar Indera Mahkota, 25200 Kuantan, Pahang, Malaysia",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzd8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "latitude": 3.817238223246567,
+    "longitude": 103.29028983180726,
+    "tempName": "pahang examination point branch 2",
+    "schedule": "Every Tuesday and Thursday, open from 07.00 - 12.00"
+  },
+  {
+    "name": "Kuala Lumpur PSI",
+    "description": "PSI Branch 1, serve material and examination place for you to take professional certification",
+    "address": "Jalan Pandan Indah 1/8, Pandan Indah, 55100 Kuala Lumpur, Selangor, Malaysia",
+    "image": "https://images.unsplash.com/photo-1449844908441-8829872d2607?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGhvbWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "latitude": 3.132968129288977,
+    "longitude": 101.750875822918,
+    "tempName": "kuala lmpur psi",
+    "schedule": "Every Monday and Tuesday, open from 09.00 - 15.00"
+  },
+  {
+    "name": "Kuala Lumpur PSI Branch 1",
+    "description": "PSI Branch 1, serve material and examination place for you to take professional certification",
+    "address": "43, Jalan Bunga Tanjung 16, Taman Muda, 56100 Kuala Lumpur, Selangor, Malaysia",
+    "image": "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "latitude": 3.115631908779824,
+    "longitude": 101.76141647256665,
+    "tempName": "kuala lmpur psi branch 1",
+    "schedule": "Every Wednesday, open from 13.00 - 15.00"
+  },
+  {
+    "name": "Kuala Lumpur PSI Branch 2",
+    "description": "PSI Branch 2, serve material and examination place for you to take professional certification",
+    "address": "Taman Bukit Indah, 58200 Ku-a-la Lăm-pơ, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "latitude": 3.080931966407142,
+    "longitude": 101.6771154355539,
+    "tempName": "kuala lmpur psi branch 2",
+    "schedule": "Every Saturday, open from 07.00 - 10.00"
+  },
+  {
+    "name": "Johor Professional Certification",
+    "description": "PSI Professional Certification point, where you can take your professional IT certificate",
+    "address": "366, Jalan Perak 1, Taman Bersatu, 81000 Kulai, Johor, Malaysia",
+    "image": "https://images.unsplash.com/photo-1596752044518-4f032c328591?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvbXBhbnklMjBidWlsZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "latitude": 1.6520941821949164,
+    "longitude": 103.5934373153721,
+    "tempName": "johor professional certification",
+    "schedule": "Every Saturday, open from 07.00 - 10.00"
+  },
+  {
+    "name": "Johor Professional Certification Branch 1",
+    "description": "PSI Professional Certification Branch 1, where you can take your professional IT certificate",
+    "address": "Jalan Mewah Utama, Bandar Putra, 81000 Kulai, Johor, Malaysia",
+    "image": "https://images.unsplash.com/photo-1633683914992-ded93eb8b18a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "latitude": 1.6594721238363568,
+    "longitude": 103.62818076045822,
+    "tempName": "johor professional certification branch 1",
+    "schedule": "Every Tuesday, open from 18.00 - 21.00"
+  },
+  {
+    "name": "Sarawak PSI Certification Center",
+    "description": "Professional Examination Certification Point branch in Sarawak, for you if you want to take a professional IT certification",
+    "address": "329-330, Jalan Centar Timur, 93100 Kuching, Sarawak, Malaysia",
+    "image": "https://images.unsplash.com/photo-1574259392081-dbe3c19cd15e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "latitude": 1.5489333174908027,
+    "longitude": 110.35351825963295,
+    "tempName": "sarawak psi certification center",
+    "schedule": "Every Monday and Tuesday, open from 07.00 - 14.00"
+  },
+  {
+    "name": "Sarawak PSI Certification Center Branch 1",
+    "description": "Professional Examination Certification Point branch in Sarawak, for you if you want to take a professional IT certification",
+    "address": "Jalan Semangat, Bintawa Industrial Estate, 93450 Kuching, Sarawak, Malaysia",
+    "image": "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDh8fGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "latitude": 1.572167550696362,
+    "longitude": 110.39367657755453,
+    "tempName": "sarawak psi certification center branch 1",
+    "schedule": "Everyday except sunday, open from 08.00 - 12.00"
+  }
+]

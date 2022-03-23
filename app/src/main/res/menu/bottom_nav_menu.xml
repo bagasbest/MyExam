@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"
+        android:title="Homepage" />
+
+    <item
+        android:id="@+id/navigation_maps"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        android:title="Maps" />
+
+
+</menu>
