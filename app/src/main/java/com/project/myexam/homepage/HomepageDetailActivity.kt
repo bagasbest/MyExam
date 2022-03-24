@@ -2,6 +2,7 @@ package com.project.myexam.homepage
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.bumptech.glide.Glide
 import com.project.myexam.databinding.ActivityHomepageDetailBinding
 import com.project.myexam.utils.DataModel
 
@@ -16,6 +17,20 @@ class HomepageDetailActivity : AppCompatActivity() {
         setContentView(binding?.root)
 
         model = intent.getParcelableExtra<DataModel>(EXTRA_DATA) as DataModel
+
+        Glide.with(this)
+            .load(model.image)
+            .into(binding!!.image)
+
+        binding?.title?.text = model.name
+        binding?.textView2?.text = model.address
+        binding?.schedule?.text = model.schedule
+        binding?.about?.text = model.description
+
+
+        binding?.backButton?.setOnClickListener {
+            onBackPressed()
+        }
     }
 
     override fun onDestroy() {
